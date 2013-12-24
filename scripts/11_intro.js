@@ -1,6 +1,7 @@
 var Appointment = Backbone.Model.extend({});
 var appointment = new Appointment();
 appointment.set('title', 'My knee hurts');
+// same appointment.set({title : 'My knee hurts'});
 
 var AppointmentView = Backbone.View.extend({
   render: function(){
