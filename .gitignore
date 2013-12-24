@@ -1,0 +1,42 @@
+#netbeans specific
+core
+nbproject/*
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+
+# java specific
+*.class
+
+# ant specific
+dist/
+build/
+
+# maven
+target/
+
+#npm
+node_modules/
+ 
+#general swap/backup files
+*.so
+*.log
+*.out
+*~
+*.swp
+*.DS_Store
+*.lock
