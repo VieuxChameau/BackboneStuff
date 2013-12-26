@@ -32,6 +32,6 @@ var titles = appointments.map(function(appointment) {
 });
 
 
-var titles = appointments.forEach(function(appointment) {
+appointments.forEach(function(appointment) {
     console.log(appointment.get('title'));
 });
