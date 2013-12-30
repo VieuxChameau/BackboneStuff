@@ -1,0 +1,13 @@
+{ // Expected JSON from the model
+    "title": "Ms. Kitty Hairball Treatment",
+    "cancelled": false,
+    "id": 1
+}
+
+{"appointment":
+    {
+        "title": "Ms. Kitty Hairball Treatment",
+        "cankelled": false,
+        "identifier": 1
+    }
+}
