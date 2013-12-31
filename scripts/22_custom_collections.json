@@ -1,0 +1,7 @@
+// Get /appointments
+        {
+            "per_page": 10, "page": 1, "total": 50,
+            "appointments": [
+                {"title": "Ms. Kitty Hairball Treatment", "cankelled": false, "identifier": 1}
+            ]
+        }
